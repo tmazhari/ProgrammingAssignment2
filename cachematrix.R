@@ -1,8 +1,8 @@
 ## MakeCacheMatrix gets an invertible square matrix. If no input has been passed 
 ## to it, it creates such matrix as defalut and starts processing on it.
 ## MakeCacheMatrix creates a list as output. If this output is fed into casheSolve
-## function, then it checks if the inverse of out matrix has been calculated.
-## If has already been calculated, it loads the information form cache. 
+## function, then it checks if the inverse of our matrix has been calculated.
+## If has already been calculated, it loads the information from cache. 
 ## If not, the input matrix is read and stored in data variable. then the inverse 
 ## of the data is calculated and stored in Minverse which gets returned finally.
 
